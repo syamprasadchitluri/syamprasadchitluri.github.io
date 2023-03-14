@@ -5,7 +5,7 @@ img {
   display: block;
 }
 
-.navbar .navbar-brand {
+/*.navbar .navbar-brand {
   font-size: 30px;
 }
 .navbar .nav-item {
@@ -14,3 +14,7 @@ img {
 .navbar .nav-link {
   margin-left: 10px;
 }
+
+footer a {
+    filter: brightness(150%);
+}*/

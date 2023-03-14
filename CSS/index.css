@@ -24,9 +24,9 @@ input {
   background-color: #343a40;
 }
 
-footer {
+/*footer {
   padding: 20px 0;
-}
+}*/
 
 ul.list-inline li {
   display: inline-block;
@@ -40,3 +40,29 @@ ul.list-inline li {
 footer a {
   filter: brightness(150%);
 }*/
+
+body{
+  height: 100vh;
+} 
+.container{
+  height: 100%;
+}
+
+.bodyDiv{  
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+}
+
+h2,p{
+  color: white;
+  font-weight: bold;
+}
+
+.textDiv{
+  float: right;
+  margin-left: 400px;
+}

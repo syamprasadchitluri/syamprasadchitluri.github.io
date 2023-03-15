@@ -1,4 +1,4 @@
-.lead::first-line {
+/*.lead::first-line {
   font-weight: bold;
   font-size: 30px;
 }
@@ -10,7 +10,7 @@ img {
   display: block;
 }
 
-/*.navbar .navbar-brand {
+.navbar .navbar-brand {
   font-size: 30px;
 }
 .navbar .nav-item {
@@ -20,9 +20,9 @@ img {
   margin-left: 10px;
 }*/
 
-input {
+/*input {
   background-color: #343a40;
-}
+}*/
 
 /*footer {
   padding: 20px 0;
@@ -41,28 +41,28 @@ footer a {
   filter: brightness(150%);
 }*/
 
-body{
+body {
   height: 100vh;
-} 
-.container{
+}
+.container {
   height: 100%;
 }
 
-.bodyDiv{  
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 100vh;
+.bodyDiv {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+  background-image: url("../images/SyamImage.jpg");
 }
 
-h2,p{
+h2,
+p {
   color: white;
   font-weight: bold;
 }
 
-.textDiv{
+.textDiv {
   float: right;
   margin-left: 400px;
 }

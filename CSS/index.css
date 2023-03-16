@@ -41,14 +41,15 @@ footer a {
   filter: brightness(150%);
 }*/
 
-body {
-  height: 100vh;
-}
+/* body {
+  height: 300vh;
+} */
 .container {
   height: 100%;
 }
 
 .bodyDiv {
+  position: relative;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -63,6 +64,18 @@ p {
 }
 
 .textDiv {
-  float: right;
-  margin-left: 400px;
+  /* float: right;
+  position: absolute;
+  /*margin-left: 400px;*/
+  /* top: 50%;
+  left: 70%;
+  transform: translate(-50%,-50%); */
+  width: 50vh;
+  margin: 100px auto;
+  background-color: black;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  right: 100px;
 }

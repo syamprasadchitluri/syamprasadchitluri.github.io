@@ -1,23 +1,9 @@
-/*.navbar .navbar-brand {
-  font-size: 30px;
-}
-.navbar .nav-item {
-  padding: 10px 20px;
-}
-.navbar .nav-link {
-  margin-left: 10px;
-}*/
-
 .card {
-    width: 350px;
-    height: 500px;
+  width: 350px;
+  height: 500px;
 }
 
 .project-img {
-    height: 250px;
-    width: 350px;
+  height: 250px;
+  width: 350px;
 }
-
-/*footer a {
-    filter: brightness(150%);
-}*/

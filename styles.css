@@ -30,3 +30,7 @@ footer i {
 .menu {
   display: none;
 }
+
+ul.list-inline li {
+  display: inline-block;
+}
